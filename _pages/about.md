@@ -1,3 +1,7 @@
+---
+permalink: /
+title: "About Me"
+---
 
 <span class='anchor' id='about-me'></span>
 
