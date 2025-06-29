@@ -21,9 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
+  name             : "Wang Huiyu 王蕙钰"
+  avatar           : "images/my-avatar.png"
+  bio: |
+  - Undergraduate student at Peking University majoring in Japanese language and literature (ranked 1/23).
+  - Completed the 3-year Computing Arts Program (co-initiated by the School of Arts and the School of Electronics Engineering and Computer Science) as the only graduate of this year.
+  - Interned at Tsinghua University Future Lab focusing on HCI.
+  - Academic interests include multimodal AI, HCI, and large language models (LLMs).
+
   location         : "Beijing, China"
   employer         :
   pubmed           : 
